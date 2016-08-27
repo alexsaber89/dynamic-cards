@@ -1,0 +1,19 @@
+#output {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.card {
+  display: inline-block;
+  border: 1px solid black;
+  width: 10%;
+  box-sizing: border-box;
+}
+
+.card p {
+  text-align: center;
+}
+
+#delete {
+  margin: 0 auto;
+}
